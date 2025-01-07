@@ -1,4 +1,4 @@
-# Motion!
+# Motion! Notion Ai clone
 ![WhatsApp Image 2025-01-07 at 18 47 31_dbf47ea7](https://github.com/user-attachments/assets/9cabdcf8-b864-4997-855d-8b0007a29c48)
 ![WhatsApp Image 2025-01-07 at 19 07 10_cbdbb770](https://github.com/user-attachments/assets/f8eba374-5274-400e-b503-e9be356ec425)
 ![WhatsApp Image 2025-01-07 at 19 07 49_7b7a4baa](https://github.com/user-attachments/assets/00650de9-3919-44f6-a37d-f452ac9a45ed)
